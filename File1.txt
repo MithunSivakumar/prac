@@ -1,2 +1,2 @@
-This is file 1
+This is file 1 with comit details.
 Modified from the feature branch added a commit.
